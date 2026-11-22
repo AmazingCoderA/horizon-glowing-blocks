@@ -1,0 +1,41 @@
+     Locking 40 packages to latest Rust 1.95.0 compatible versions
+   Compiling proc-macro2 v1.0.107
+   Compiling libc v0.2.191
+   Compiling quote v1.0.47
+   Compiling zerocopy v0.8.64
+   Compiling unicode-ident v1.0.27
+   Compiling cfg-if v1.0.5
+   Compiling serde_core v1.0.229
+   Compiling getrandom v0.2.17
+   Compiling rand_core v0.6.4
+   Compiling syn v3.0.10
+   Compiling siphasher v1.0.4
+   Compiling ppv-lite86 v0.2.21
+   Compiling zmij v1.0.23
+   Compiling rand_chacha v0.3.1
+   Compiling phf_shared v0.11.3
+   Compiling serde_json v1.0.154
+   Compiling rand v0.8.8
+   Compiling serde v1.0.229
+   Compiling serde_derive v1.0.229
+   Compiling phf_generator v0.11.3
+   Compiling phf_codegen v0.11.3
+   Compiling unicode_names2_generator v2.0.0
+   Compiling unicode_names2 v2.0.0
+   Compiling libm v0.2.16
+    Checking phf v0.11.3
+   Compiling itoa v1.0.19
+    Checking memchr v2.8.3
+   Compiling syn v2.0.119
+   Compiling bytemuck_derive v1.12.1
+   Compiling horizon-mod-vocab v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native/.horizon/sdk/api/crates/horizon-mod-vocab)
+    Checking horizon-core v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native/.horizon/sdk/api/crates/horizon-core)
+    Checking bytemuck v1.25.2
+   Compiling horizon-mod-point-shape v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native/.horizon/sdk/api/crates/horizon-mod-point-shape)
+    Checking glam v0.30.10
+    Checking log v0.4.35
+   Compiling horizon-mod-api-macros v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native/.horizon/sdk/api/crates/horizon-mod-api-macros)
+   Compiling horizon-mod-api v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native/.horizon/sdk/api/crates/horizon-mod-api)
+    Checking horizon-mod-runtime v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native/.horizon/sdk/api/crates/horizon-mod-runtime)
+    Checking mod-wlc_horizon_native v0.1.0 (/mnt/e/wcraft/forks/wlc-horizon-native)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 4m 19s
