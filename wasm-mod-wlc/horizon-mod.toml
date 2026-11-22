@@ -1,0 +1,14 @@
+id = "wlc_wasm"
+name = "wlc wasm"
+version = "0.1.0"
+description = ""
+authors = []
+# A wasm mod: Rust in src/, built to mod.wasm by `cargo horizon-mod build --wasm` against the SDK build Cargo.toml pins, beside data/ and assets/.
+api = "0.2"
+side = "both"
+# registries: "May add blocks, items, mob effects and entity types to your worlds".
+capabilities = ["registries"]
+
+[wasm]
+sha512 = "50e35f96ac193f7185f8c7f6393996e7720bc31ec63658820a51d3d3a197c2b636c1417d49340fce5a0ced781284d49ed97bacbc25a353cd4df42a0a09cafc72"
+toolchain = "1.99.1 58cf8f9c35b355199727627d07ae34a4e2846d67"

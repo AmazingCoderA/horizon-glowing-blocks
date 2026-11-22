@@ -1,0 +1,64 @@
+SDK 2b77287 (build 2b77287de099c9316278ba7ac4d83590fdb7ef30) in ./.horizon/sdk
+   Compiling compiler_builtins v0.1.160 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/compiler-builtins/compiler-builtins)
+   Compiling core v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core)
+   Compiling libc v0.2.189
+   Compiling object v0.39.1
+   Compiling std v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std)
+   Compiling libc v0.2.191
+   Compiling proc-macro2 v1.0.107
+   Compiling unicode-ident v1.0.27
+   Compiling zerocopy v0.8.64
+   Compiling quote v1.0.47
+   Compiling cfg-if v1.0.5
+   Compiling serde_core v1.0.229
+   Compiling zmij v1.0.23
+   Compiling syn v3.0.10
+   Compiling getrandom v0.2.17
+   Compiling rand_core v0.6.4
+   Compiling siphasher v1.0.4
+   Compiling phf_shared v0.11.3
+   Compiling serde v1.0.229
+   Compiling serde_json v1.0.154
+   Compiling serde_derive v1.0.229
+   Compiling ppv-lite86 v0.2.21
+   Compiling rand_chacha v0.3.1
+   Compiling rand v0.8.8
+   Compiling phf_generator v0.11.3
+   Compiling phf_codegen v0.11.3
+   Compiling unicode_names2_generator v2.0.0
+   Compiling unicode_names2 v2.0.0
+   Compiling libm v0.2.16
+   Compiling itoa v1.0.19
+   Compiling memchr v2.8.3
+   Compiling syn v2.0.119
+   Compiling bytemuck_derive v1.12.1
+   Compiling horizon-mod-vocab v0.1.0 (/home/neon/wlc-wasm/.horizon/sdk/api/crates/horizon-mod-vocab)
+   Compiling horizon-mod-api v0.1.0 (/home/neon/wlc-wasm/.horizon/sdk/api/crates/horizon-mod-api)
+   Compiling horizon-mod-point-shape v0.1.0 (/home/neon/wlc-wasm/.horizon/sdk/api/crates/horizon-mod-point-shape)
+   Compiling horizon-mod-api-macros v0.1.0 (/home/neon/wlc-wasm/.horizon/sdk/api/crates/horizon-mod-api-macros)
+   Compiling rustc-std-workspace-core v1.99.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling alloc v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc)
+   Compiling unwind v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/unwind)
+   Compiling adler2 v2.0.1
+   Compiling cfg-if v1.0.4
+   Compiling dlmalloc v0.2.14
+   Compiling panic_abort v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/panic_abort)
+   Compiling rustc-demangle v0.1.28
+   Compiling rustc-literal-escaper v0.0.8
+   Compiling rustc-std-workspace-alloc v1.99.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/rustc-std-workspace-alloc)
+   Compiling panic_unwind v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/panic_unwind)
+   Compiling gimli v0.34.0
+   Compiling hashbrown v0.17.1
+   Compiling std_detect v0.1.5 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std_detect)
+   Compiling miniz_oxide v0.9.1
+   Compiling addr2line v0.27.1
+   Compiling proc_macro v0.0.0 (/mnt/e/wcraft/rustup/toolchains/1.99.1-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/proc_macro)
+   Compiling phf v0.11.3
+   Compiling glam v0.30.10
+   Compiling bytemuck v1.25.2
+   Compiling log v0.4.35
+   Compiling horizon-core v0.1.0 (/home/neon/wlc-wasm/.horizon/sdk/api/crates/horizon-core)
+   Compiling horizon-mod-runtime v0.1.0 (/home/neon/wlc-wasm/.horizon/sdk/api/crates/horizon-mod-runtime)
+   Compiling mod-wlc_wasm v0.1.0 (/home/neon/wlc-wasm/target/horizon-mod/group/wlc_wasm)
+    Finished `horizon-wasm` profile [optimized] target(s) in 6m 12s
+Built ./target/horizon-mod/wlc_wasm.hmod
